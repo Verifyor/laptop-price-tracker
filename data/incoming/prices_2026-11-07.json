@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-07",
+  "observations": [
+    {"laptop_id": "omen16", "store": "Geizhals (best DE shop)", "price": 1399.00, "currency": "EUR", "url": "https://geizhals.de/?fs=omen+16-ap1190ng&cat=nb&sort=p", "in_stock": true, "sku": "16-ap1190ng", "note": "R9 8940HX, 16GB, 512GB"},
+    {"laptop_id": "loq17", "store": "Geizhals (best DE shop)", "price": 1299.00, "currency": "EUR", "url": "https://geizhals.de/?fs=LOQ+17IRX10+5070&cat=nb&sort=p", "in_stock": true, "sku": "LOQ 17IRX10", "note": "i7-14700HX, 16GB, 512GB"},
+    {"laptop_id": "gigaA16", "store": "Geizhals (best DE shop)", "price": 1234.05, "currency": "EUR", "url": "https://geizhals.de/?fs=gaming+a16+3WH&cat=nb&sort=p", "in_stock": true, "sku": "Gaming A16 3WH", "note": "R7 260, 16GB, 1TB"},
+    {"laptop_id": "nitroV16", "store": "Geizhals (best DE shop)", "price": 1299.00, "currency": "EUR", "url": "https://geizhals.de/?fs=ANV16-42+5070&cat=nb&sort=p", "in_stock": true, "sku": "ANV16-42-R7AC", "note": "R7 260, 16GB, 1TB"},
+    {"laptop_id": "katana15", "store": "Geizhals (best DE shop)", "price": 1549.00, "currency": "EUR", "url": "https://geizhals.de/?fs=Katana+15+HX+B14WGK&cat=nb&sort=p", "in_stock": true, "sku": "B14WGK-638", "note": "i7-14650HX, 16GB, 1TB"},
+    {"laptop_id": "tufA16", "store": "Geizhals (best DE shop)", "price": 1499.00, "currency": "EUR", "url": "https://geizhals.de/?fs=TUF+A18+FA808UP&cat=nb&sort=p", "in_stock": true, "sku": "TUF A18 FA808UP-S8012W", "note": "18in, R7 260, 16GB, 1TB (A16 FA608UP at EUR1,599)"},
+    {"laptop_id": "aerox16", "store": "Geizhals (best DE shop)", "price": 1499.00, "currency": "EUR", "url": "https://geizhals.de/?fs=AERO+X16+5070&cat=nb&sort=p", "in_stock": true, "sku": "AERO X16", "note": "Ryzen AI 9 270, 16GB, 1TB"},
+    {"laptop_id": "legion5", "store": "Geizhals (best DE shop)", "price": 1779.00, "currency": "EUR", "url": "https://geizhals.de/lenovo-legion-5-15irx10-83ly00vvge-a3809274.html", "in_stock": true, "sku": "83LY00VVGE", "note": "i7-13650HX, 16GB, 1TB"},
+    {"laptop_id": "legionpro5", "store": "Geizhals (best DE shop)", "price": 2199.00, "currency": "EUR", "url": "https://geizhals.de/lenovo-legion-pro-5-16adr10-83lt0098ge-a3760441.html", "in_stock": true, "sku": "83LT0098GE", "note": "R9 8945HX, 32GB, 1TB"},
+    {"laptop_id": "erazer17", "store": "Overclockers.co.uk", "price": 1549.99, "currency": "GBP", "url": "https://www.overclockers.co.uk/black-friday", "in_stock": true, "sku": "Erazer Defender 17 P10", "note": "i9-14900HX; OcUK BF guide price (was GBP1,799.99)"}
+  ]
+}

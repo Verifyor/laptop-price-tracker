@@ -1,0 +1,39 @@
+{
+  "_comment": "General settings. Put your Gmail app password in secrets.json (never here).",
+  "home_country": "IE",
+  "excel_file": "Laptop_Price_Tracker.xlsx",
+  "email": {
+    "enabled": true,
+    "to": "finan.dooley@gmail.com",
+    "from": "finan.dooley@gmail.com",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "only_send_if_changes": false
+  },
+  "sale_dates": {
+    "black_friday": "2026-11-27",
+    "cyber_monday": "2026-11-30"
+  },
+  "fx_fallback": { "GBP": 1.15 },
+  "_landed_comment": "How a shop's listed price becomes an Irish 'landed' price. vat_factor converts the shop's local VAT to 23% Irish VAT (EU shops selling to IE consumers must charge IE VAT). UK: price/1.20 (UK VAT removed on export) * 1.23 (IE import VAT) + customs/courier fee. ships_to_ie is a best guess - verify at checkout.",
+  "stores": {
+    "Amazon.de":            { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "Caseking.de":          { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 20, "ships_to_ie": "yes" },
+    "Notebooksbilliger.de": { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 0,  "ships_to_ie": "no (DE/AT only)" },
+    "Alternate.de":         { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 20, "ships_to_ie": "check" },
+    "Cyberport.de":         { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 20, "ships_to_ie": "check" },
+    "Coolblue.de":          { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 0,  "ships_to_ie": "no" },
+    "Lenovo.com/de":        { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 0,  "ships_to_ie": "no (use Lenovo IE)" },
+    "Geizhals (best DE shop)": { "country": "DE", "currency": "EUR", "vat_factor": 1.0336, "shipping_eur": 15, "ships_to_ie": "depends on shop" },
+    "Overclockers.co.uk":   { "country": "UK", "currency": "GBP", "vat_factor": 1.025,  "shipping_eur": 25, "ships_to_ie": "yes (ex-UK VAT + IE import VAT)" },
+    "Scan.co.uk":           { "country": "UK", "currency": "GBP", "vat_factor": 1.025,  "shipping_eur": 25, "ships_to_ie": "check" },
+    "Amazon.co.uk":         { "country": "UK", "currency": "GBP", "vat_factor": 1.025,  "shipping_eur": 10, "ships_to_ie": "yes" },
+    "Amazon.ie":            { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "Currys.ie":            { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "HarveyNorman.ie":      { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "DID.ie":               { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "Lenovo.com/ie":        { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "Dell.ie":              { "country": "IE", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "yes" },
+    "Other":                { "country": "EU", "currency": "EUR", "vat_factor": 1.0,    "shipping_eur": 0,  "ships_to_ie": "check" }
+  }
+}

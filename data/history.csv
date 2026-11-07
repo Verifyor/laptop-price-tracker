@@ -1,0 +1,11 @@
+date,laptop_id,store,price,currency,landed_eur,url,in_stock,sku,note
+2026-11-07,aerox16,Geizhals (best DE shop),1499.0,EUR,1564.37,https://geizhals.de/?fs=AERO+X16+5070&cat=nb&sort=p,true,AERO X16,"Ryzen AI 9 270, 16GB, 1TB"
+2026-11-07,erazer17,Overclockers.co.uk,1549.99,GBP,1929.58,https://www.overclockers.co.uk/black-friday,true,Erazer Defender 17 P10,"i9-14900HX; OcUK BF guide price (was GBP1,799.99)"
+2026-11-07,gigaA16,Geizhals (best DE shop),1234.05,EUR,1290.51,https://geizhals.de/?fs=gaming+a16+3WH&cat=nb&sort=p,true,Gaming A16 3WH,"R7 260, 16GB, 1TB"
+2026-11-07,katana15,Geizhals (best DE shop),1549.0,EUR,1616.05,https://geizhals.de/?fs=Katana+15+HX+B14WGK&cat=nb&sort=p,true,B14WGK-638,"i7-14650HX, 16GB, 1TB"
+2026-11-07,legion5,Geizhals (best DE shop),1779.0,EUR,1853.77,https://geizhals.de/lenovo-legion-5-15irx10-83ly00vvge-a3809274.html,true,83LY00VVGE,"i7-13650HX, 16GB, 1TB"
+2026-11-07,legionpro5,Geizhals (best DE shop),2199.0,EUR,2287.89,https://geizhals.de/lenovo-legion-pro-5-16adr10-83lt0098ge-a3760441.html,true,83LT0098GE,"R9 8945HX, 32GB, 1TB"
+2026-11-07,loq17,Geizhals (best DE shop),1299.0,EUR,1357.65,https://geizhals.de/?fs=LOQ+17IRX10+5070&cat=nb&sort=p,true,LOQ 17IRX10,"i7-14700HX, 16GB, 512GB"
+2026-11-07,nitroV16,Geizhals (best DE shop),1299.0,EUR,1357.65,https://geizhals.de/?fs=ANV16-42+5070&cat=nb&sort=p,true,ANV16-42-R7AC,"R7 260, 16GB, 1TB"
+2026-11-07,omen16,Geizhals (best DE shop),1399.0,EUR,1461.01,https://geizhals.de/?fs=omen+16-ap1190ng&cat=nb&sort=p,true,16-ap1190ng,"R9 8940HX, 16GB, 512GB"
+2026-11-07,tufA16,Geizhals (best DE shop),1499.0,EUR,1564.37,https://geizhals.de/?fs=TUF+A18+FA808UP&cat=nb&sort=p,true,TUF A18 FA808UP-S8012W,"18in, R7 260, 16GB, 1TB (A16 FA608UP at EUR1,599)"
